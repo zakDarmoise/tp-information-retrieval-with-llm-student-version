@@ -1,0 +1,9 @@
+openai
+langchain
+sentence_transformers
+chromadb
+unstructured
+accelerate
+bitsandbytes
+gradio==3.48.0
+pydantic

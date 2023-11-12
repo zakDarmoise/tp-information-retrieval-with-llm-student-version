@@ -1,0 +1,16 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.env/
+data/RiderHaggard/stemmed/
+
+# db
+chromadb/
+
+model/
