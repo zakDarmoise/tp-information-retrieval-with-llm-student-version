@@ -52,4 +52,4 @@ La notation prendra également en compte la qualité de votre code et son optimi
 
 # Rendu des 2 TPs
 
-Vous devez rendre votre TP sous la forme d'un lien github avec vos TP complétés en en déposant vos 2 notebooks sur Moodle.
+Vous devez rendre votre TP sous la forme d'un lien github avec vos TP complétés ou en déposant vos 2 notebooks sur Moodle.
